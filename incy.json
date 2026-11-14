@@ -36,5 +36,6 @@
   "bypassLocalDNS": false,
   "isDefault": false,
   "isEditable": false,
+  "providerGeoUpdateIntervalHours": 72,
   "updateInterval": 259200
 }
