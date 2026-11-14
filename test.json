@@ -2,7 +2,7 @@
   "Name": "💙 CLU VPN",
   "GlobalProxy": "true",
   "RouteOrder": "block-proxy-direct",
-  "RemoteDNSType": "DoU",
+  "RemoteDNSType": "DoH",
   "RemoteDNSDomain": "https://dns.google/dns-query",
   "RemoteDNSIP": "8.8.8.8",
   "DomesticDNSType": "DoH",
