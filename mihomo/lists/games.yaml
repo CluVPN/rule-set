@@ -1,0 +1,4 @@
+payload:
+  - PROCESS-NAME,DCS.exe
+  - PROCESS-NAME,FlightSimulator.exe
+  - PROCESS-NAME,FlightSimulator2024.exe
